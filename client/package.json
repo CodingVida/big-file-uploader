@@ -1,0 +1,20 @@
+{
+  "name": "big-file-uploader-for-client",
+  "version": "1.0.0",
+  "description": "big file uploader for client",
+  "main": "./dist/big-file-uploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "big",
+    "file;",
+    "upload;",
+    "client"
+  ],
+  "author": "yoto",
+  "license": "ISC",
+  "dependencies": {
+    "spark-md5": "^3.0.1"
+  }
+}

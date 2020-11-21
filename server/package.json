@@ -1,0 +1,23 @@
+{
+  "name": "big-file-uploader-for-server",
+  "version": "1.0.0",
+  "description": "big file uploader for server as a koa middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "big",
+    "file",
+    "uploader",
+    "koa",
+    "middleware"
+  ],
+  "author": "yoto",
+  "license": "ISC",
+  "dependencies": {
+    "concat-files": "^0.1.1",
+    "formidable": "^1.2.2",
+    "fs-extra": "^9.0.1"
+  }
+}
